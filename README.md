@@ -13,7 +13,7 @@ The game follows three major rules:
 
 Run the game by running the GameOfLife.py file, make sure that all the packages are downloaded.
 
-Game Key Details: White blocks = Dead, Dark orange blocks = Alive
+Key game details: white blocks = dead, dark orange blocks = alive
 
 At the beginning select the live cells by right clicking in the white rectangle of the GUI. The cell will turn dark orange. Once you are happy with your cell selection press the start button. The start button will commence the simulation. The only available command if the simulation is running is to stop the stimulation. With the simulation stopped you can select new blocks or reset the simulation to a blank grid.
 
